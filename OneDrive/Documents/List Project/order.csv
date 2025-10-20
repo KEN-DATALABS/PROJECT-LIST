@@ -1,0 +1,6 @@
+order_id,customer_email,product,price,quantity,order_date,total_value,day,month,year
+1001,Alice@Email.Com,laptop,999.99,1.0,2023-01-15,999.99,Sunday,January,2023
+1002,Bob@Mail.Com,mouse,25.5,2.0,2023-01-15,51.0,Sunday,January,2023
+1003,Carol@Email.Com,keyboard,75.0,1.0,2023-01-16,75.0,Monday,January,2023
+1004,David@Mail.Com,monitor,299.99,1.0,2023-01-16,299.99,Monday,January,2023
+1001,Alice@Email.Com,laptop,999.99,1.0,2023-01-15,999.99,Sunday,January,2023
