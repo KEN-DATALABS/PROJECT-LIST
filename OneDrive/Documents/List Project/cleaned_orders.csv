@@ -1,0 +1,5 @@
+order_id,customer_email,product,price,quantity,order_date,total_price
+1001,alice@email.com,laptop,999.99,1.0,Sunday,999.99
+1002,bob@mail.com,mouse,25.5,2.0,Sunday,51.0
+1003,carol@email.com,keyboard,75.0,1.0,Monday,75.0
+1004,david@mail.com,monitor,299.99,1.0,Monday,299.99
